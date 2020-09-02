@@ -1,0 +1,11 @@
+{
+  "name": "API_REST_RESTful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amaurinogueira/API_REST_RESTful.git",
+  "author": "Amauri Nogueira <50035391+amaurinogueira@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
