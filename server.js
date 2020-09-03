@@ -48,6 +48,6 @@ app.delete("/clients/:id", function(req, res){
 
 });
 //Indica qual a porta vai se usada
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
     console.log("Server is runing");
 });
